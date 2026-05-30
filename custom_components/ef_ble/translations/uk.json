@@ -182,7 +182,7 @@
             },
             "data_description": {
               "connection_timeout": "Кількість секунд очікування на підключення та автентифікацію пристрою.",
-              "bluez_start_notify": "Спробуйте увімкнути це, якщо ви стикаєтесь з частими відключеннями, коли підключено кілька пристроїв BLE, або якщо бачите `AcquireNotify: Read error` / `Unexpected EOF on notification file handle` у ваших журнах."
+              "bluez_start_notify": "Спробуйте увімкнути це, якщо ви стикаєтесь з частими відключеннями, коли підключено кілька пристроїв BLE, або якщо бачите `AcquireNotify: Read error` / `Unexpected EOF on notification file handle` у ваших журналах."
             }
           }
         }
